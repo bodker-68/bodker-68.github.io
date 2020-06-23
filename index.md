@@ -4,4 +4,7 @@ Columbo is a shrewd but inelegant blue-collar homicide detective whose trademark
 * Clever
 * Persistent
 * Cigar smoking
+
 > Just one more thing
+
+<img src="https://images.immediate.co.uk/production/volatile/sites/3/2018/02/GettyImages-140626219-1ca0aee.jpg?webp=true&quality=90&resize=620%2C413"/>
